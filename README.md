@@ -106,7 +106,9 @@ Performance metrics are saved and visualized for all models using 5-fold stratif
 Please cite as:
 
 ```
-Foysal Ahmad et al. (2025). Nature++ AI Biomarker Discovery Pipeline. Zenodo. https://doi.org/10.5281/zenodo.15855304
+Ahammad, F. (2025). AutoML-Guided Discovery of Hub Genes in Cerebral Palsy Reveals Shared Pediatric Disease Mechanisms (V.1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15855304
+
+(Zenodo. https://doi.org/10.5281/zenodo.15855304)
 ```
 
 ---
